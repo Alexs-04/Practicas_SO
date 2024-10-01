@@ -1,0 +1,4 @@
+Nombre: alex
+Edad: 18
+Carrera: LI
+Matricula: 100
